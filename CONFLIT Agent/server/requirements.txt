@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+python-multipart
+requests
+
+PyPDF2
+python-docx
+
+pydantic
+sqlalchemy
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]s
+email-validator
+
+# File extraction
+pymupdf
+
+# AI / LLM
+openai
+
+# Optional (recommended)
+python-dotenv 
